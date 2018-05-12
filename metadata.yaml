@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5328
     wikipedia: http://en.wikipedia.org/wiki/James_Witt_Sewell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14006#An-English-Grammar
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2004-11-10'
 gutenberg_type: Text
