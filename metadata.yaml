@@ -1,0 +1,36 @@
+_repo: An-English-Grammar_14006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Baskervill, William Malone
+    alias: Baskervill, W. M. (William Malone)
+    birthdate: 1850
+    deathdate: 1899
+    gutenberg_agent_id: '5327'
+    url: http://www.gutenberg.org/2009/agents/5327
+    wikipedia: http://en.wikipedia.org/wiki/William_Malone_Baskervill
+  - agent_name: Sewell, James Witt
+    alias: Sewell, J. W. (James Witt)
+    birthdate: 1865
+    deathdate: 1955
+    gutenberg_agent_id: '5328'
+    url: http://www.gutenberg.org/2009/agents/5328
+    wikipedia: http://en.wikipedia.org/wiki/James_Witt_Sewell
+description: ''
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2004-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Grammar'
+title: An English Grammar
+url: http://www.gutenberg.org/ebooks/14006
